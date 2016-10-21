@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica 3</string>
+    <string name="decimal">Decimal</string>
+    <string name="convertir">Convertir</string>
+    <string name="horas">Horas</string>
+    <string name="minutos">Minutos</string>
+    <string name="segundos">Segundos</string>
+    <string name="decimos">Decimos</string>
+</resources>
